@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+
+# HuggingFace Transformers cache
+~/.cache/huggingface/
+
+# Model checkpoints
+checkpoints/
+
+# System files
+Thumbs.db
+
+# Test outputs
+htmlcov/
+.coverage
+
+# Ignore audio temp files
+*.wav
+*.mp3
+*.flac
+*.ogg 
