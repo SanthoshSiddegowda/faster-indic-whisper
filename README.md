@@ -1,4 +1,4 @@
-# Indic Whisper
+# Faster-Indic Whisper
 
 A FastAPI-based backend for real-time speech-to-text transcription using OpenAI's Whisper model. Designed for integration with mobile apps, supporting scalable, real-time audio streaming and transcription.
 
